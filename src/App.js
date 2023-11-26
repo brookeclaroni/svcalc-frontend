@@ -50,26 +50,44 @@ function App() {
     setSkillList(updatedskillList);
   };
 
-  const calculateStartValue = () => {
+  const calculateStartValue = async () => {
     console.table(skillList);
-
+  
     const routine = skillList
-    .filter((item) => item.code) // Exclude skills with empty or undefined skill code
-    .map((item, index, array) => {
-      if (index === array.length - 1) {
-        return item.code;
-      }
-      else if (item.connection === 'connected') {
-        return item.code + '+';
-      } else {
-        return item.code + '/';
-      }
-    })
-    .join('');
-
-    setStartValue({ event: selectedEvent, routine });
+      .filter((item) => item.code) // Exclude skills with empty or undefined skill code
+      .map((item, index, array) => {
+        if (index === array.length - 1) {
+          return item.code;
+        } else if (item.connection === 'connected') {
+          return item.code + '+';
+        } else {
+          return item.code + '/';
+        }
+      })
+      .join('');
+  
     console.log({ event: selectedEvent, routine });
-  };
+  // Construct the URL with parameters
+  const url = `http://127.0.0.1:8080/routine/calculate?event=${encodeURIComponent(selectedEvent)}&routine=${encodeURIComponent(routine)}`;
+
+  // Make the GET request
+  try {
+    const response = await fetch(url);
+
+    const data = await response.text(); // Read the response as text
+    console.log('GET request result:', data);
+    setStartValue(data);
+
+
+    // Display the result on the screen or perform any other actions with the data
+    // For example, you can set it in the state to render it in the component
+    // setSomeState(data);
+  } catch (error) {
+    console.error('Error fetching data:', error);
+    // Handle errors as needed
+  }
+};
+  
 
   return (
     <Container maxWidth="sm">
@@ -143,7 +161,7 @@ function App() {
 
         {startValue && (
           <Typography variant="body1" style={{ marginTop: 10 }}>
-            {`{"event": "${startValue.event}", "routine": "${startValue.routine}"}`}
+            {startValue}
           </Typography>
         )}
       </Paper>
