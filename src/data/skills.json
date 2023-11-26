@@ -811,7 +811,7 @@
       "event": "bb",
       "skill_code": "1.107",
       "img_file": "bb_1.107.jpg",
-      "description": "1.107\nFront walkover (hands on board) to rear\nsupport (sit) on beam.\n\na\"\n",
+      "description": "Front walkover (hands on board) to rear support (sit) on beam",
       "skill_group": "1",
       "value": "M"
     },
@@ -819,7 +819,7 @@
       "event": "bb",
       "skill_code": "1.108",
       "img_file": "bb_1.108.jpg",
-      "description": "Jump to roll forward at end or middle of",
+      "description": "Jump to roll forward at end or middle of beam",
       "skill_group": "1",
       "value": "M"
     },
@@ -835,7 +835,7 @@
       "event": "bb",
       "skill_code": "1.110",
       "img_file": "bb_1.110.jpg",
-      "description": "One foot take-off, leg swing w/ 1/2 turn (total 180) to front support",
+      "description": "One foot take-off, leg swing w/ 1/4-1/4 turn (total 180) to front support - 90 degree approach to beam",
       "skill_group": "1",
       "value": "M"
     },
@@ -843,7 +843,7 @@
       "event": "bb",
       "skill_code": "1.201",
       "img_file": "bb_1.201.jpg",
-      "description": "1.201\nSquat/stoop through or jump to\nclear pike support (2 sec.)\n\n",
+      "description": "Squat/stoop through or jump to clear pike support (2 sec.)",
       "skill_group": "1",
       "value": "S"
     },
@@ -851,7 +851,7 @@
       "event": "bb",
       "skill_code": "1.202",
       "img_file": "bb_1.202.jpg",
-      "description": "1.202\n\nFree jump to stand on 1 or both legs (take\noff from 2 feet) approach at end or\ndiagonal to beam\n\n",
+      "description": "Free jump to stand on 1 or both legs (take off from 2 feet) approach at end or diagonal to beam",
       "skill_group": "1",
       "value": "S"
     },
@@ -859,7 +859,7 @@
       "event": "bb",
       "skill_code": "1.203",
       "img_file": "bb_1.203.jpg",
-      "description": "1.203\n\na. Straddle cut backward to front support\n\nb. Thief vault - free leap over beam, one leg\nafter another to rear support (take off from\none leg)\n\n",
+      "description": "a. Straddle cut backward to front support b. Thief vault - free leap over beam, one leg after another to rear support (take off from one leg)",
       "skill_group": "1",
       "value": "S"
     },
@@ -867,7 +867,7 @@
       "event": "bb",
       "skill_code": "1.204",
       "img_file": "bb_1.204.jpg",
-      "description": "1.204\nLeap to cross split sit from one foot take-off\n(support of one hand permitted)\n\n",
+      "description": "Leap to cross split sit from one foot take-off (support of one hand permitted)",
       "skill_group": "1",
       "value": "S"
     },
@@ -875,7 +875,7 @@
       "event": "bb",
       "skill_code": "1.207",
       "img_file": "bb_1.207.jpg",
-      "description": "1.207\nFree (aerial) walkover forward to rear\nsupport\n\n",
+      "description": "Free (aerial) walkover forward to rear support",
       "skill_group": "1",
       "value": "S"
     },
@@ -883,7 +883,7 @@
       "event": "bb",
       "skill_code": "1.209",
       "img_file": "bb_1.209.jpg",
-      "description": "1.209\nJump to chest stand, 1/2 turn (180\u00b0) over\nshoulder to shoulder stand\n\n",
+      "description": "Jump to chest stand, 1/2 turn (180) over shoulder to shoulder stand",
       "skill_group": "1",
       "value": "S"
     },
@@ -891,7 +891,7 @@
       "event": "bb",
       "skill_code": "1.302",
       "img_file": "bb_1.302.jpg",
-      "description": "1.302\na. Free jump with 1/2 turn (180\u00b0) in flight\nphase to stand (take off from 2 feet)\n\n",
+      "description": "a. Free jump with 1/2 turn (180) in flight phase to stand (take off from 2 feet) b. Free jump to cross split sit (take off from 2 feet)",
       "skill_group": "1",
       "value": "HS"
     },
@@ -899,7 +899,7 @@
       "event": "bb",
       "skill_code": "1.303",
       "img_file": "bb_1.303.jpg",
-      "description": "1.303\n\nFree straddle jump onto end of beam\n(180\u00b0 leg separation)\n\n",
+      "description": "Free straddle jump onto end of beam (180 leg separation)",
       "skill_group": "1",
       "value": "HS"
     },
@@ -907,7 +907,7 @@
       "event": "bb",
       "skill_code": "1.304",
       "img_file": "bb_1.304.jpg",
-      "description": "1.304\nFree switch leg leap to arrive in split sit\n\n/\u00e9\u00a3\n\n2 R RL\nC7\n",
+      "description": "Free switch leg leap to arrive in split sit",
       "skill_group": "1",
       "value": "HS"
     },
@@ -915,7 +915,7 @@
       "event": "bb",
       "skill_code": "1.305",
       "img_file": "bb_1.305.jpg",
-      "description": "1.305\n\na. Press to handstand from jump or clear\nstraddle support\nott\n\nb. Jump with extended hips (hecht phase) to\ncartwheel or cross handstand\n",
+      "description": "a. Press to handstand from jump or clear straddle support b. Jump with extended hips (hecht phase) to cartwheel or cross handstand",
       "skill_group": "1",
       "value": "HS"
     },
@@ -923,7 +923,7 @@
       "event": "bb",
       "skill_code": "1.306",
       "img_file": "bb_1.306.jpg",
-      "description": "1.306\nJump to handstand with hip angle (pike) to\nhandstand forward with step-out\n",
+      "description": "Jump to handstand with hip angle (pike) to handstand forward with step-out",
       "skill_group": "1",
       "value": "HS"
     },
@@ -931,7 +931,7 @@
       "event": "bb",
       "skill_code": "1.307",
       "img_file": "bb_1.307.jpg",
-      "description": "1.307\nFrom cross stand facing end of beam - head\nkip\n\n",
+      "description": "From cross stand facing end of beam - head kip",
       "skill_group": "1",
       "value": "HS"
     },
@@ -939,7 +939,7 @@
       "event": "bb",
       "skill_code": "1.309",
       "img_file": "bb_1.309.jpg",
-      "description": "1.309\nJump to chest stand, 1/1 turn (360\u00b0) over\nshoulder to chest stand\n\n",
+      "description": "Jump to chest stand, 1/1 turn (360) over shoulder to chest stand",
       "skill_group": "1",
       "value": "HS"
     },
@@ -947,7 +947,7 @@
       "event": "bb",
       "skill_code": "1.310",
       "img_file": "bb_1.310.jpg",
-      "description": "1.310\nRound-off, flic-flac through handstand to\nstand or swing down to cross straddle sit\n\n",
+      "description": "Round-off, flic-flac through handstand to stand or swing down to cross straddle sit",
       "skill_group": "1",
       "value": "HS"
     },
@@ -955,7 +955,7 @@
       "event": "bb",
       "skill_code": "1.402",
       "img_file": "bb_1.402.jpg",
-      "description": "1.402\nFree jump with 1/1 turn (360\u00b0) in flight\nphase to stand (take off from 2 feet)\n\n",
+      "description": "Free jump with 1/1 turn (360) in flight phase to stand (take off from 2 feet)",
       "skill_group": "1",
       "value": "AHS"
     },
@@ -963,7 +963,7 @@
       "event": "bb",
       "skill_code": "1.406",
       "img_file": "bb_1.406.jpg",
-      "description": "1.406\n\nHandspring forward with extended hips\n\n(hecht phase) before and after hand support\non beam\n\nval\n",
+      "description": "Handspring forward with extended hips (hecht phase) before and after hand support on beam",
       "skill_group": "1",
       "value": "AHS"
     },
@@ -971,7 +971,7 @@
       "event": "bb",
       "skill_code": "1.407",
       "img_file": "bb_1.407.jpg",
-      "description": "1.407\nSalto forward to arrive in stand or sit on\nbeam, also with 2 twist (180\u00b0)\n\n",
+      "description": "Salto forward to arrive in stand or sit on beam, also with 1/2 twist (180)",
       "skill_group": "1",
       "value": "AHS"
     },
@@ -979,7 +979,7 @@
       "event": "bb",
       "skill_code": "1.410",
       "img_file": "bb_1.410.jpg",
-      "description": "1.410\nRound-off, back salto to stand (tuck/pike/\nstretched)\n\n",
+      "description": "Round-off, back salto to stand (tuck/pike/stretched)",
       "skill_group": "1",
       "value": "AHS"
     },
@@ -987,7 +987,7 @@
       "event": "bb",
       "skill_code": "2.101",
       "img_file": "bb_2.101.jpg",
-      "description": "2.101,\n\u2018tuck jump.\n",
+      "description": "tuck jump",
       "skill_group": "2",
       "value": "M"
     },
@@ -995,7 +995,7 @@
       "event": "bb",
       "skill_code": "2.102",
       "img_file": "bb_2.102.jpg",
-      "description": "2.102\n\u2018cat leap\n",
+      "description": "cat leap",
       "skill_group": "2",
       "value": "M"
     },
@@ -1003,7 +1003,7 @@
       "event": "bb",
       "skill_code": "2.103",
       "img_file": "bb_2.103.jpg",
-      "description": "2.103\nhopwitree leg above horiz\n",
+      "description": "hop w/ free leg above horiz",
       "skill_group": "2",
       "value": "M"
     },
@@ -1011,7 +1011,7 @@
       "event": "bb",
       "skill_code": "2.105",
       "img_file": "bb_2.105.jpg",
-      "description": "2.105\na. stretched jp wiwo arch; also with\n\nbeat/change of legs (changement)\n\nb.stretched jump 2 L J \u00a5\n",
+      "description": "a. stretched jp w/wo arch; also with beat/change of legs (changement) b. stretched jump 1/2",
       "skill_group": "2",
       "value": "M"
     },
@@ -1019,7 +1019,7 @@
       "event": "bb",
       "skill_code": "2.106",
       "img_file": "bb_2.106.jpg",
-      "description": "2.106\n\u2018split/stag split Ip/ip 135\u00b0w/wo 1/4\n\n= - 2 +2\n",
+      "description": "split/stag split lp/jp 135 w/wo 1/4",
       "skill_group": "2",
       "value": "M"
     },
@@ -1027,7 +1027,7 @@
       "event": "bb",
       "skill_code": "2.110",
       "img_file": "bb_2.110.jpg",
-      "description": "2.110\nhitehkick,cabrie = <K\n",
+      "description": "hitchkick, cabriole",
       "skill_group": "2",
       "value": "M"
     },
@@ -1035,7 +1035,7 @@
       "event": "bb",
       "skill_code": "2.111",
       "img_file": "bb_2.111.jpg",
-      "description": "ral\na. sissone 135\u00b0 &\n\nb. stag/double stag Ip\n27 4er\n",
+      "description": "a. sissone 135 b. stag/double stag lp/jp",
       "skill_group": "2",
       "value": "M"
     },
@@ -1043,7 +1043,7 @@
       "event": "bb",
       "skill_code": "2.201",
       "img_file": "bb_2.201.jpg",
-      "description": "2.201,\n\u2018tuck jump 1/2\n",
+      "description": "tuck jump 1/2",
       "skill_group": "2",
       "value": "S"
     },
@@ -1051,7 +1051,7 @@
       "event": "bb",
       "skill_code": "2.202",
       "img_file": "bb_2.202.jpg",
-      "description": "2.202\n\u2018cat leap 1/2\n",
+      "description": "cat leap 1/2",
       "skill_group": "2",
       "value": "S"
     },
@@ -1059,7 +1059,7 @@
       "event": "bb",
       "skill_code": "2.203",
       "img_file": "bb_2.203.jpg",
-      "description": "203\n\u2018wolt jumpihop/switch  W\n",
+      "description": "wolf jump/hop/switch",
       "skill_group": "2",
       "value": "S"
     },
@@ -1067,7 +1067,7 @@
       "event": "bb",
       "skill_code": "2.204",
       "img_file": "bb_2.204.jpg",
-      "description": "2.204\npike jump 90\u00b0\n",
+      "description": "pike jump 90",
       "skill_group": "2",
       "value": "S"
     },
@@ -1075,7 +1075,7 @@
       "event": "bb",
       "skill_code": "2.205",
       "img_file": "bb_2.205.jpg",
-      "description": "2.205,\n\u2018stretched jump 3/4\n",
+      "description": "stretched jump 3/4",
       "skill_group": "2",
       "value": "S"
     },
@@ -1083,7 +1083,7 @@
       "event": "bb",
       "skill_code": "2.206",
       "img_file": "bb_2.206.jpg",
-      "description": "2.206\na. spit/stag split iplip 180\u00b0\n((rom cross landing in cross)\na ~8\nb. splitlstag split Ip 180\u00b0\nfollowed by 1/4 a Be\n(from cross landing in side)\n",
+      "description": "a. spit/stag split lp/jp 180 (from cross landing in cross) b. split/stag split lp/jp 180 followed by 1/4 (from cross landing in side)",
       "skill_group": "2",
       "value": "S"
     },
@@ -1091,7 +1091,7 @@
       "event": "bb",
       "skill_code": "2.207",
       "img_file": "bb_2.207.jpg",
-      "description": "ot ii \u00a5\nside split jp 135\u00b0wiwo 1/4 \u2014\u2014 _Y_\n",
+      "description": "side split jp 135 w/wo 1/4",
       "skill_group": "2",
       "value": "S"
     },
@@ -1099,7 +1099,7 @@
       "event": "bb",
       "skill_code": "2.209",
       "img_file": "bb_2.209.jpg",
-      "description": "209.\n\u2018switch leg Ipfp 135\u00b0 whwo 1/4\nZa\n",
+      "description": "switch leg lp/jp 135 w/wo 1/4",
       "skill_group": "2",
       "value": "S"
     },
@@ -1107,7 +1107,7 @@
       "event": "bb",
       "skill_code": "2.211",
       "img_file": "bb_2.211.jpg",
-      "description": "2211\na. sissone 180\u00b0 4\n\nb. stag/double stag Ip/io w/ 1/2\nty ob\n",
+      "description": "a. sissone 180 b. stag/double stag lp/jp w/ 1/2",
       "skill_group": "2",
       "value": "S"
     },
@@ -1115,7 +1115,7 @@
       "event": "bb",
       "skill_code": "2.212",
       "img_file": "bb_2.212.jpg",
-      "description": "2.212. y/stag ting Ipvip at waist height 2\n",
+      "description": "ring/stag ring lp/jp at waist height",
       "skill_group": "2",
       "value": "S"
     },
@@ -1123,7 +1123,7 @@
       "event": "bb",
       "skill_code": "2.213",
       "img_file": "bb_2.213.jpg",
-      "description": "2.213\n\u2018sheep jump at waist height A)\n",
+      "description": "sheep jump at waist height",
       "skill_group": "2",
       "value": "S"
     },
@@ -1131,7 +1131,7 @@
       "event": "bb",
       "skill_code": "2.301",
       "img_file": "bb_2.301.jpg",
-      "description": "2.301,\n\u2018tuck jump 3/4\n",
+      "description": "tuck jump 3/4",
       "skill_group": "2",
       "value": "HS"
     },
@@ -1139,7 +1139,7 @@
       "event": "bb",
       "skill_code": "2.302",
       "img_file": "bb_2.302.jpg",
-      "description": "302\n\u2018cat leap 1/1\n",
+      "description": "cat leap 1/1",
       "skill_group": "2",
       "value": "HS"
     },
@@ -1147,7 +1147,7 @@
       "event": "bb",
       "skill_code": "2.303",
       "img_file": "bb_2.303.jpg",
-      "description": "2.308 olf jump/hop 1/2 ww\n",
+      "description": "wolf jump/hop 1/2",
       "skill_group": "2",
       "value": "HS"
     },
@@ -1155,7 +1155,7 @@
       "event": "bb",
       "skill_code": "2.304",
       "img_file": "bb_2.304.jpg",
-      "description": "2.304 4\na. pike jump 90\u00b0 w/ 1/2 vy\n\nbi pike jump 90\u00b0\n(from side landing in side)\n\n",
+      "description": "a. pike jump 90 w/ 1/2 b. pike jump 90 (from side landing in side)",
       "skill_group": "2",
       "value": "HS"
     },
@@ -1163,7 +1163,7 @@
       "event": "bb",
       "skill_code": "2.305",
       "img_file": "bb_2.305.jpg",
-      "description": "2.305.\n\u2018stretched jump 1/1\n",
+      "description": "stretched jump 1/1",
       "skill_group": "2",
       "value": "HS"
     },
@@ -1171,7 +1171,7 @@
       "event": "bb",
       "skill_code": "2.306",
       "img_file": "bb_2.306.jpg",
-      "description": "2.306,\na. spllstag split Ip 180\u00b0 w/ 1/2\nod\nb. spl jp 180\u00b0 :\n(from side landing inside) a\n\ncjump with #/4to spit 1807 |\n(from oross landing in side) 2\n",
+      "description": "a. split/stag split lp/jp 180 w/ 1/2 b. split jp 180 (from side landing in side) c. jump with 1/4 to spit 180 (from cross landing in side)",
       "skill_group": "2",
       "value": "HS"
     },
@@ -1179,7 +1179,7 @@
       "event": "bb",
       "skill_code": "2.307",
       "img_file": "bb_2.307.jpg",
-      "description": "2307\na. side splitjp 180\u00b0\n(from cross landing in cross)\n\nby Sie split jp 180\u00b0 folowed by 1/4\n(from cross landing in side)\n",
+      "description": "a. side split jp 180 (from cross landing in cross) b. side split jp 180 followed by 1/4 (from cross landing in side)",
       "skill_group": "2",
       "value": "HS"
     },
@@ -1187,7 +1187,7 @@
       "event": "bb",
       "skill_code": "2.308",
       "img_file": "bb_2.308.jpg",
-      "description": "2.308\n4. straddle pike jp\n(from cross landing in cross)\n\ni. stiaddle pike jp followed by 1/4\u00bb\n(from cross landing in side)\n",
+      "description": "a. straddle pike jp (from cross landing in cross) b. straddle pike jp followed by 1/4 (from cross landing in side)",
       "skill_group": "2",
       "value": "HS"
     },
@@ -1195,7 +1195,7 @@
       "event": "bb",
       "skill_code": "2.309",
       "img_file": "bb_2.309.jpg",
-      "description": "ae.\n\u2018a.switch leg pp 180\u00b0 ZZ\n\nb. split jp 180\u00b0 w/ change of legs\n(min. 30\u00b0 leg separation) prior to split\nposition (Sweetin) 2\n\nkL\n",
+      "description": "a. switch leg lp/jp 180 b. split jp 180 w/ change of legs (min. 30 degree leg separation) prior to split position (Sweetin)",
       "skill_group": "2",
       "value": "HS"
     },
@@ -1203,7 +1203,7 @@
       "event": "bb",
       "skill_code": "2.311",
       "img_file": "bb_2.311.jpg",
-      "description": "2311\ntour jet\u00e9 135\u00b0\n",
+      "description": "tour jete 135",
       "skill_group": "2",
       "value": "HS"
     },
@@ -1211,7 +1211,7 @@
       "event": "bb",
       "skill_code": "2.401",
       "img_file": "bb_2.401.jpg",
-      "description": "2.401\n\u2018tuck jump 1/1\n",
+      "description": "tuck jump 1/1",
       "skill_group": "2",
       "value": "AHS"
     },
@@ -1219,7 +1219,7 @@
       "event": "bb",
       "skill_code": "2.402",
       "img_file": "bb_2.402.jpg",
-      "description": "2.402,\n\u2018cat leap 11/2\n",
+      "description": "cat leap 1 1/2",
       "skill_group": "2",
       "value": "AHS"
     },
@@ -1227,7 +1227,7 @@
       "event": "bb",
       "skill_code": "2.403",
       "img_file": "bb_2.403.jpg",
-      "description": "403\n*wolt jump/hop 3/4\n",
+      "description": "wolf jump/hop 3/4",
       "skill_group": "2",
       "value": "AHS"
     },
@@ -1235,7 +1235,7 @@
       "event": "bb",
       "skill_code": "2.404",
       "img_file": "bb_2.404.jpg",
-      "description": "2.404 3\n\npike jump 90\u00b0 wi 3/4 x\nspike jump 90\u00b0 wi 1/2 A\n(Vomstelandinginsda) \u00ab=\n",
+      "description": "a. pike jump 90 w/ 3/4 b. pike jump 90 w/ 1/2 (from side landing in side)",
       "skill_group": "2",
       "value": "AHS"
     },
@@ -1243,7 +1243,7 @@
       "event": "bb",
       "skill_code": "2.405",
       "img_file": "bb_2.405.jpg",
-      "description": "2.405\n\u2018stretched jump 1 1/2\n",
+      "description": "stretched jump 1 1/2",
       "skill_group": "2",
       "value": "AHS"
     },
@@ -1251,7 +1251,7 @@
       "event": "bb",
       "skill_code": "2.406",
       "img_file": "bb_2.406.jpg",
-      "description": "2.406\na. split jump 180\u00b0 w/ 34\n\nbi spijump 180\u00b0 12\n{from side landing inside)\n",
+      "description": "a. split jump 180 w/ 3/4 b. split jump 180 1/2 (from side landing in side)",
       "skill_group": "2",
       "value": "AHS"
     },
@@ -1259,7 +1259,7 @@
       "event": "bb",
       "skill_code": "2.407",
       "img_file": "bb_2.407.jpg",
-      "description": "2407\na. side spl ump 180\u00b0 wi 1/2\n\nbi Side spit jo 180\u00b0\n(rom side landing in side)\n\n\u00a9. jump with 1/4to side spit 180\u00b0\n{from cross landing in side)\n",
+      "description": "a. side split jp 180 w/ 1/2 b. side spit jp 180 (from side landing in side) c. jump with 1/4 to side spit 180 (from cross landing in side)",
       "skill_group": "2",
       "value": "AHS"
     },
@@ -1267,7 +1267,7 @@
       "event": "bb",
       "skill_code": "2.408",
       "img_file": "bb_2.408.jpg",
-      "description": "2.408\n\na. straddle pike jump wi 1/2 3\nstraddle pike jp .\n(from side landing in sid) 4\n\njump with 1/4 to straddle pike .\n(from cross landing in side) BZ.)\n",
+      "description": "a. straddle pike jump w/ 1/2 b. straddle pike jp (from side landing in side) c. jump with 1/4 to straddle pike (from cross landing in side)",
       "skill_group": "2",
       "value": "AHS"
     },
@@ -1275,7 +1275,7 @@
       "event": "bb",
       "skill_code": "2.409",
       "img_file": "bb_2.409.jpg",
-      "description": "2.409\n\u2018a. switch Ipjp 180\u00b0 w/ 1/4 to side spit 2.\n\nb. switch pip 180\u00b0 w/ 1/4 to sada pike 2A\nswitch Ipfp to ring at head height 5)\n\n4. switch Ip/ip 180\u00b0 w/ &\n",
+      "description": "a. switch lp/jp 180 w/ 1/4 to side split b. switch lp/jp 180 w/ 1/4 to straddle pike c. switch lp/jp to ring at head height d. switch lp/jp 180 w/ 1/2",
       "skill_group": "2",
       "value": "AHS"
     },
@@ -1283,7 +1283,7 @@
       "event": "bb",
       "skill_code": "2.411",
       "img_file": "bb_2.411.jpg",
-      "description": "2411\n'a. tour jot\u00e9 180\u00b0 x\n\u2018tour jet\u00e9 to ring athead height\nc.tourjet\u00e9 135\u00b0 wi 1/40r 1/2 EY SY\n",
+      "description": "a. tour jete 180 b. tour jete to ring at head height c. tour jete 135 w/ 1/4 or 1/2",
       "skill_group": "2",
       "value": "AHS"
     },
@@ -1291,7 +1291,7 @@
       "event": "bb",
       "skill_code": "2.412",
       "img_file": "bb_2.412.jpg",
-      "description": "2.412\n2 ing/stag ring Ipfip at head height\n",
+      "description": "ring/stag ring lp/jp at head height",
       "skill_group": "2",
       "value": "AHS"
     },
@@ -1299,7 +1299,7 @@
       "event": "bb",
       "skill_code": "2.413",
       "img_file": "bb_2.413.jpg",
-      "description": "2413\n\u201csheep jp at head height\n",
+      "description": "sheep jp at head height",
       "skill_group": "2",
       "value": "AHS"
     },
@@ -1307,7 +1307,7 @@
       "event": "bb",
       "skill_code": "3.101",
       "img_file": "bb_3.101.jpg",
-      "description": "3.101\n4/4 turn (360\u00b0) on one leg\n\n",
+      "description": "1/1 turn (360) on one leg",
       "skill_group": "3",
       "value": "M"
     },
@@ -1315,7 +1315,7 @@
       "event": "bb",
       "skill_code": "3.201",
       "img_file": "bb_3.201.jpg",
-      "description": "3.201\n14/2 turn (540\u00b0) on one leg\n\n",
+      "description": "1 1/2 turn (540) on one leg",
       "skill_group": "3",
       "value": "S"
     },
@@ -1323,7 +1323,7 @@
       "event": "bb",
       "skill_code": "3.202",
       "img_file": "bb_3.202.jpg",
-      "description": "3.202\n1A turn (360\u00b0) with hand holding leg\nbetween horizontal and 45\u00b0 above horizontal\n\nie\n\n",
+      "description": "1/1 turn (360) with hand holding leg between horizontal and 45 above horizontal",
       "skill_group": "3",
       "value": "S"
     },
@@ -1331,7 +1331,7 @@
       "event": "bb",
       "skill_code": "3.203",
       "img_file": "bb_3.203.jpg",
-      "description": "3.203\n\n1M turn (360\u00b0) with free leg between\nhorizontal and 45\u00b0 below horizontal\n\noh ee\n\nf\n",
+      "description": "1/1 turn (360) with free leg between horizontal and 45 below horizontal",
       "skill_group": "3",
       "value": "S"
     },
@@ -1339,7 +1339,7 @@
       "event": "bb",
       "skill_code": "3.205",
       "img_file": "bb_3.205.jpg",
-      "description": "3.205\n\n4/1 turn (360\u00b0) in tuck stand on one leg,\nleg in forward horizontal, placing of\n\n",
+      "description": "1/1 turn (360) in tuck stand on one leg, free leg in forward horizontal, placing of free leg at end of 1/1 turn",
       "skill_group": "3",
       "value": "S"
     },
@@ -1347,7 +1347,7 @@
       "event": "bb",
       "skill_code": "3.302",
       "img_file": "bb_3.302.jpg",
-      "description": "3.302\n1/1 tur (360\u00b0) with hand holding leg at a\n\u2018minimum 45\u00b0 above horizontal\n\n",
+      "description": "1/1 turn (360) with hand holding leg at a minimum 45 degrees above horizontal",
       "skill_group": "3",
       "value": "HS"
     },
@@ -1355,7 +1355,7 @@
       "event": "bb",
       "skill_code": "3.303",
       "img_file": "bb_3.303.jpg",
-      "description": "3.303\n\n1A turn (360\") with free leg at or above\nhorizontal throughout\n\no/ <>\n\nPh te\n\n",
+      "description": "1/1 turn (360) with free leg at or above horizontal throughout",
       "skill_group": "3",
       "value": "HS"
     },
@@ -1363,7 +1363,7 @@
       "event": "bb",
       "skill_code": "3.304",
       "img_file": "bb_3.304.jpg",
-      "description": "3.304\n42 turn (180\u00b0), brief touch of one\nhand permitted\n\n",
+      "description": "1/2 illusion turn (180), brief touch of one hand permitted",
       "skill_group": "3",
       "value": "HS"
     },
@@ -1371,7 +1371,7 @@
       "event": "bb",
       "skill_code": "3.305",
       "img_file": "bb_3.305.jpg",
-      "description": "3.305\n1.4/2 turn (540\u00b0) in tuck stand on one leg,\nfree leg in forward horizontal, placing of\nfree leg at end of 1 1/2 turn\n\n",
+      "description": "1 1/2 turn (540) in tuck stand on one leg, free leg in forward horizontal, placing of free leg at end of 1 1/2 turn",
       "skill_group": "3",
       "value": "HS"
     },
@@ -1379,7 +1379,7 @@
       "event": "bb",
       "skill_code": "3.401",
       "img_file": "bb_3.401.jpg",
-      "description": "2/1 (720\u00b0) tur or mare on one leg\n\n",
+      "description": "2/1 (720) turn or more on one leg",
       "skill_group": "3",
       "value": "AHS"
     },
@@ -1387,7 +1387,7 @@
       "event": "bb",
       "skill_code": "3.403",
       "img_file": "bb_3.403.jpg",
-      "description": "3.403\n\n11/2 turn or more with free leg at or above\nhorizontal throughout\n\n",
+      "description": "1 1/2 turn or more with free leg at or above horizontal throughout",
       "skill_group": "3",
       "value": "AHS"
     },
@@ -1395,7 +1395,7 @@
       "event": "bb",
       "skill_code": "3.404",
       "img_file": "bb_3.404.jpg",
-      "description": "3.404\n4/1 illusion turn (360\u00b0) or more, brief\ntouch of one hand permitted\n\n",
+      "description": "1/1 illusion turn (360) or more, brief touch of one hand permitted",
       "skill_group": "3",
       "value": "AHS"
     },
@@ -1403,7 +1403,7 @@
       "event": "bb",
       "skill_code": "3.405",
       "img_file": "bb_3.405.jpg",
-      "description": "3.405\n2H (720\u00b0) oF more in tuck stand on one leg,\n{ree leg in forward horizontal, placing of free\nleg at end of turn (Humphrey)\n\n",
+      "description": "2/1 (720) or more in tuck stand on one leg, free leg in forward horizontal, placing of free leg at end of turn (Humphrey)",
       "skill_group": "3",
       "value": "AHS"
     },
@@ -1411,7 +1411,7 @@
       "event": "bb",
       "skill_code": "4.101",
       "img_file": "bb_4.101.jpg",
-      "description": "e forward, backward or sideward\nt A Pi\n",
+      "description": "body wave forward, backward or sideward",
       "skill_group": "4",
       "value": "M"
     },
@@ -1419,7 +1419,7 @@
       "event": "bb",
       "skill_code": "4.201",
       "img_file": "bb_4.201.jpg",
-      "description": "upward with body wave through toe-balance\nstand\n\n",
+      "description": "toe rise - from kneeling position, rise upward with body wave through toe-balance stand",
       "skill_group": "4",
       "value": "S"
     },
@@ -1427,7 +1427,7 @@
       "event": "bb",
       "skill_code": "5.101",
       "img_file": "bb_5.101.jpg",
-      "description": "5.101\nStand on one leg (whole foot), free leg in\nforward, rd, or backward hold (support\ntended) above 90\u00b0 (2 sec.)\n\n",
+      "description": "Stand on one leg (whole foot), free leg in forward, sideward, or backward hold (support leg bent or tended) above 90 degrees (2 sec.)",
       "skill_group": "5",
       "value": "M"
     },
@@ -1435,7 +1435,7 @@
       "event": "bb",
       "skill_code": "5.102",
       "img_file": "bb_5.102.jpg",
-      "description": "Needle Scale - Standing 180\u00b0 split forward\nwith hand support in front of leg (2 sec.)\n\n",
+      "description": "Needle Scale - Standing 180 split forward with hand support in front of leg (2 sec.)",
       "skill_group": "5",
       "value": "M"
     },
@@ -1443,7 +1443,7 @@
       "event": "bb",
       "skill_code": "5.103",
       "img_file": "bb_5.103.jpg",
-      "description": "5.103\nFree lying with large leg amplitude - torso at\nend or side of beam (2 sec.)\n\nBa &\n\n",
+      "description": "Free lying with large leg amplitude - torso at end or side of beam (2 sec.)",
       "skill_group": "5",
       "value": "M"
     },
@@ -1451,7 +1451,7 @@
       "event": "bb",
       "skill_code": "5.201",
       "img_file": "bb_5.201.jpg",
-      "description": "in 180\u00b0 sp\n\ni4\n\n",
+      "description": "Stand on one leg holding free leg with hand in 180 split (2 sec.)",
       "skill_group": "5",
       "value": "S"
     },
@@ -1459,7 +1459,7 @@
       "event": "bb",
       "skill_code": "5.301",
       "img_file": "bb_5.301.jpg",
-      "description": "5.301\nStand on one leg with free leg in 180\u00b0 split\n(no support of leg with hand) (2 sec.)\n\nig \u2018i A\n",
+      "description": "Stand on one leg with free leg in 180 split (no support of leg with hand) (2 sec.)",
       "skill_group": "5",
       "value": "HS"
     },
@@ -1467,7 +1467,7 @@
       "event": "bb",
       "skill_code": "6.101",
       "img_file": "bb_6.101.jpg",
-      "description": "6.101\nKick to cross or side handstand (2 sec.)\n\n",
+      "description": "Kick to cross or side handstand (2 sec.)",
       "skill_group": "6",
       "value": "M"
     },
@@ -1475,7 +1475,7 @@
       "event": "bb",
       "skill_code": "6.201",
       "img_file": "bb_6.201.jpg",
-      "description": "6.201\nHandstand, descend to clear straddle support\n\n",
+      "description": "Handstand, descend to clear straddle support",
       "skill_group": "6",
       "value": "S"
     },
@@ -1483,7 +1483,7 @@
       "event": "bb",
       "skill_code": "6.202",
       "img_file": "bb_6.202.jpg",
-      "description": "6.202\nHandstand 1/2 turn\n\n",
+      "description": "Handstand 1/2 turn",
       "skill_group": "6",
       "value": "S"
     },
@@ -1491,7 +1491,7 @@
       "event": "bb",
       "skill_code": "6.301",
       "img_file": "bb_6.301.jpg",
-      "description": "6.301\nHandstand, clear stoop through of one leg to\ncross split sit, also with pike through to\nclear pike \u201cV\" support\n\n",
+      "description": "Handstand, clear stoop through of one leg to cross split sit, also with pike through to clear pike 'V' support",
       "skill_group": "6",
       "value": "HS"
     },
@@ -1499,15 +1499,23 @@
       "event": "bb",
       "skill_code": "6.302",
       "img_file": "bb_6.302.jpg",
-      "description": "6.302\nine-arm handstand (2 sec.)\n\n\u00a2. Handstand with 4/1 turn\n",
+      "description": "a. One-arm handstand (2 sec.) b. Planche (2 sec.) b. Handstand with 1/1 turn",
       "skill_group": "6",
       "value": "HS"
     },
     {
+        "event": "bb",
+        "skill_code": "7.101",
+        "img_file": "bb_7.101.jpg",
+        "description": "Forward roll or shoulder roll with hand support",
+        "skill_group": "7",
+        "value": "M"
+      },
+    {
       "event": "bb",
       "skill_code": "7.103",
       "img_file": "bb_7.103.jpg",
-      "description": "7.103\nJackward roll or shoulder roll with hand\nsupport\n\n",
+      "description": "Backward roll or shoulder roll with hand support",
       "skill_group": "7",
       "value": "M"
     },
@@ -1515,7 +1523,7 @@
       "event": "bb",
       "skill_code": "7.201",
       "img_file": "bb_7.201.jpg",
-      "description": "7.201\nard roll without hand support\n\n",
+      "description": "Forward roll without hand support",
       "skill_group": "7",
       "value": "S"
     },
@@ -1523,7 +1531,7 @@
       "event": "bb",
       "skill_code": "7.202",
       "img_file": "bb_7.202.jpg",
-      "description": "7.202\na. Dive forward roll\n\n",
+      "description": "a. Dive forward roll b. Handstand forward roll",
       "skill_group": "7",
       "value": "S"
     },
@@ -1531,23 +1539,15 @@
       "event": "bb",
       "skill_code": "7.303",
       "img_file": "bb_7.303.jpg",
-      "description": "7.303\nBackward roll to handstand\n\n",
+      "description": "Backward roll to handstand",
       "skill_group": "7",
       "value": "HS"
     },
     {
       "event": "bb",
-      "skill_code": "7.401",
-      "img_file": "bb_7.401.jpg",
-      "description": "\u20187.401\n\nForward roll or shoulder roll with hand\nsupport\n\n",
-      "skill_group": "7",
-      "value": "AHS"
-    },
-    {
-      "event": "bb",
       "skill_code": "8.103",
       "img_file": "bb_8.103.jpg",
-      "description": "8.103\na, Walkover backward\n\n",
+      "description": "a. Walkover backward b. Walkover backward with swing down to cross straddle sit",
       "skill_group": "8",
       "value": "M"
     },
@@ -1555,7 +1555,7 @@
       "event": "bb",
       "skill_code": "8.105",
       "img_file": "bb_8.105.jpg",
-      "description": "bending of both arms or\nigh chest stand\n",
+      "description": "a. Cartwheel b. Cartwheel with support of one arm c. Cartwheel with bending of both arms or on forearms through chest stand",
       "skill_group": "8",
       "value": "M"
     },
@@ -1563,7 +1563,7 @@
       "event": "bb",
       "skill_code": "8.202",
       "img_file": "bb_8.202.jpg",
-      "description": "8.202\nWalkover forward, backward (Tic-Toc)\n\n",
+      "description": "Walkover forward, backward (Tic-Toc)",
       "skill_group": "8",
       "value": "S"
     },
@@ -1571,15 +1571,23 @@
       "event": "bb",
       "skill_code": "8.203",
       "img_file": "bb_8.203.jpg",
-      "description": "8.203\na. Series of walkovers backward\nb. Cartwheel back walkover series\n(in any order)\n\u00a2, Walkover backward with support of one arm\n\n",
+      "description": "a. Series of walkovers backward b. Cartwheel back walkover series (in any order) c. Walkover backward with support of one arm",
       "skill_group": "8",
       "value": "S"
     },
     {
+        "event": "bb",
+        "skill_code": "8.204",
+        "img_file": "bb_8.204.jpg",
+        "description": "a. Scale forward, 1/2 turn (180) to walkover backward b. Walkover backward from tuck sit (Valdez)",
+        "skill_group": "8",
+        "value": "S"
+      },
+    {
       "event": "bb",
       "skill_code": "8.205",
       "img_file": "bb_8.205.jpg",
-      "description": "9. Cartwheel w/light phase before or after\nhhand support\n\nxX\n\n",
+      "description": "a. Series of cartwheels b. Cartwheel w/ flight phase before or after hand support",
       "skill_group": "8",
       "value": "S"
     },
@@ -1587,15 +1595,7 @@
       "event": "bb",
       "skill_code": "8.206",
       "img_file": "bb_8.206.jpg",
-      "description": "8.206\nRound-off w/flight after hand support\n\n",
-      "skill_group": "8",
-      "value": "S"
-    },
-    {
-      "event": "bb",
-      "skill_code": "8.208",
-      "img_file": "bb_8.208.jpg",
-      "description": "8.208\n\na. Scale forward, 1/2 turn (180\u00b0) to walkover\nbackward\n\n",
+      "description": "Round-off w/ flight after hand support",
       "skill_group": "8",
       "value": "S"
     },
@@ -1603,7 +1603,7 @@
       "event": "bb",
       "skill_code": "8.301",
       "img_file": "bb_8.301.jpg",
-      "description": "8.301\nWalkover forward in side position to\n\n",
+      "description": "Walkover forward in side position to side stand",
       "skill_group": "8",
       "value": "HS"
     },
@@ -1611,7 +1611,7 @@
       "event": "bb",
       "skill_code": "8.302",
       "img_file": "bb_8.302.jpg",
-      "description": "8.302\nWalkover forward with support of one arm\n\n",
+      "description": "Walkover forward with support of one arm",
       "skill_group": "8",
       "value": "HS"
     },
@@ -1619,7 +1619,7 @@
       "event": "bb",
       "skill_code": "8.304",
       "img_file": "bb_8.304.jpg",
-      "description": "8.304\na. Valdez with support of one arm\n\nWw \u201cL 4 ;\nao\n\nb. Valdez with 1/4 turn (360\u00b0) (Diamidov)\n2 =\n\n",
+      "description": "a. Valdez with support of one arm b. Valdez with 1/1 turn (360) (Diamidov)",
       "skill_group": "8",
       "value": "HS"
     },
@@ -1627,7 +1627,7 @@
       "event": "bb",
       "skill_code": "8.401",
       "img_file": "bb_8.401.jpg",
-      "description": "8.401\nFree (aerial) walkover forward\n\n",
+      "description": "Free (aerial) walkover forward",
       "skill_group": "8",
       "value": "AHS"
     },
@@ -1635,7 +1635,7 @@
       "event": "bb",
       "skill_code": "8.402",
       "img_file": "bb_8.402.jpg",
-      "description": "8.402\nJump backward (flic-flac take-off) with \u00a5\ntwist (180\u00b0) to walkover forward (Gnodi)\n\n",
+      "description": "Jump backward (flic-flac take-off) with 1/2 twist (180) to walkover forward (Onodi)",
       "skill_group": "8",
       "value": "AHS"
     },
@@ -1643,7 +1643,7 @@
       "event": "bb",
       "skill_code": "8.405",
       "img_file": "bb_8.405.jpg",
-      "description": "8.405\nFree (aerial) cartwheel\n\n",
+      "description": "Free (aerial) cartwheel",
       "skill_group": "8",
       "value": "AHS"
     },
@@ -1651,7 +1651,7 @@
       "event": "bb",
       "skill_code": "9.202",
       "img_file": "bb_9.202.jpg",
-      "description": "1\u00a2 (handspring backward) lar\nin stand\n\ni\n\nb. Flic-flac (handspring backward) with\nstep-out i\n\nfa)\n\nSe\n",
+      "description": "Flic-flac (handspring backward) landing on both legs in stand b. Flic-flac (handspring backward) with step-out",
       "skill_group": "9",
       "value": "S"
     },
@@ -1659,7 +1659,7 @@
       "event": "bb",
       "skill_code": "9.203",
       "img_file": "bb_9.203.jpg",
-      "description": "Fiic-flac with swing down to cross straddle\nsit\n\n",
+      "description": "Fiic-flac with swing down to cross straddle sit",
       "skill_group": "9",
       "value": "S"
     },
@@ -1667,7 +1667,7 @@
       "event": "bb",
       "skill_code": "9.301",
       "img_file": "bb_9.301.jpg",
-      "description": "9.301\na. Handspring forward with flight before or\nafter support of hands\n\nb, Handspring forward with support on one\narm\n\n",
+      "description": "a. Handspring forward with flight before or after support of hands b. Handspring forward with support on one arm",
       "skill_group": "9",
       "value": "HS"
     },
@@ -1675,7 +1675,7 @@
       "event": "bb",
       "skill_code": "9.302",
       "img_file": "bb_9.302.jpg",
-      "description": "9.302\n\n2 Gainer tila, also with support of one\narm\n\na4\n\nb Fliclac with support of one arm\n\nAy +r\nPAL\n",
+      "description": "a. Gainer flic-flac, also with support of one arm b. Flic-flac with support of one arm",
       "skill_group": "9",
       "value": "HS"
     },
@@ -1683,7 +1683,7 @@
       "event": "bb",
       "skill_code": "9.303",
       "img_file": "bb_9.303.jpg",
-      "description": "Sas w/ 1/4 twist 00\") fo side\n\n",
+      "description": "a. Flic-flace w/ 1/4 twist (90) fo side handstand b. Flic-flac w/ 1/2 twist (180)",
       "skill_group": "9",
       "value": "HS"
     },
@@ -1691,7 +1691,7 @@
       "event": "bb",
       "skill_code": "9.402",
       "img_file": "bb_9.402.jpg",
-      "description": "flac with tucking and stretching of hips\nin flight phase with swing down to cross\nstraddle sit (Chen Flic)\n\n",
+      "description": "Flic-flac with tucking and stretching of hips in flight phase with swing down to cross straddle sit (Chen Flic)",
       "skill_group": "9",
       "value": "AHS"
     },
@@ -1699,7 +1699,7 @@
       "event": "bb",
       "skill_code": "9.403",
       "img_file": "bb_9.403.jpg",
-      "description": "9.403\na. Flic-lac with 3/4 - 1/1 wist (270\u00b0-360\")\nto stand\n\n2 0\n\nlava)\n\n",
+      "description": "a. Flic-flac with 3/4 - 1/1 twist (270-360) to stand b. Flic-flac with 1/1 twist (360) with swing fown to cross straddle sit",
       "skill_group": "9",
       "value": "AHS"
     },
@@ -1707,7 +1707,7 @@
       "event": "bb",
       "skill_code": "10.301",
       "img_file": "bb_10.301.jpg",
-      "description": "10.301\nt aerial/salto to sit\n\n",
+      "description": "Free aerial/salto to sit",
       "skill_group": "10",
       "value": "HS"
     },
@@ -1715,7 +1715,7 @@
       "event": "bb",
       "skill_code": "10.401",
       "img_file": "bb_10.401.jpg",
-      "description": "10.401\nSalto (forward/backward/sideward) from 1 oF\n2 eet, in any body position, wiwo twist\n\nQe\nTe 2\n\na Ni\n\n",
+      "description": "Salto (forward/backward/sideward) from 1 or 2 feet, in any body position, w/wo twist",
       "skill_group": "10",
       "value": "AHS"
     },
@@ -1723,7 +1723,7 @@
       "event": "bb",
       "skill_code": "11.101",
       "img_file": "bb_11.101.jpg",
-      "description": "11.101\nCartwheel with 3/4 twist (270\u00b0) after hand\nSupport at end of beam\n\n",
+      "description": "Cartwheel with 3/4 twist (270) after hand support at end of beam",
       "skill_group": "11",
       "value": "M"
     },
@@ -1731,7 +1731,7 @@
       "event": "bb",
       "skill_code": "11.102",
       "img_file": "bb_11.102.jpg",
-      "description": "44.102\nHandspring forward, also with 1/2 twist\n(180\u00b0) after hand support\n\n",
+      "description": "Handspring forward, also with 1/2 twist (180) after hand support",
       "skill_group": "11",
       "value": "M"
     },
@@ -1739,7 +1739,7 @@
       "event": "bb",
       "skill_code": "11.103",
       "img_file": "bb_11.103.jpg",
-      "description": "11.103\nRound-off\n\n",
+      "description": "Round-off dismount",
       "skill_group": "11",
       "value": "M"
     },
@@ -1747,7 +1747,7 @@
       "event": "bb",
       "skill_code": "11.201",
       "img_file": "bb_11.201.jpg",
-      "description": "41.201\nCartwheel with 1 1/4 twist (450\u00b0) after hand\nSupport at end of beam\n\n",
+      "description": "Cartwheel with 1 1/4 twist (450) after hand support at end of beam",
       "skill_group": "11",
       "value": "S"
     },
@@ -1755,7 +1755,7 @@
       "event": "bb",
       "skill_code": "11.202",
       "img_file": "bb_11.202.jpg",
-      "description": "14.202\nHandspring forward with 1/1 twist (360\u00b0)\n\n",
+      "description": "Handspring forward with 1/1 twist (360) after hand support",
       "skill_group": "11",
       "value": "S"
     },
@@ -1763,7 +1763,7 @@
       "event": "bb",
       "skill_code": "11.203",
       "img_file": "bb_11.203.jpg",
-      "description": "11.203\na. Free (aerial) walkover forward, also with\n1/2 twist (180\u00b0) at side or end\n\n\"4 berate\niG =e\n\nb. Free (aerial) round-off\n\nAf\n\n",
+      "description": "a. Free (aerial) walkover forward, also with 1/2 twist (180) at side or end b. Free (aerial) round-off",
       "skill_group": "11",
       "value": "S"
     },
@@ -1771,7 +1771,7 @@
       "event": "bb",
       "skill_code": "11.206",
       "img_file": "bb_11.206.jpg",
-      "description": "11.206\nSalto backward {rom 1 or 2 foot takeoff\n(tuck/pike/stretched)\n\nDW ow o/\n\n",
+      "description": "Salto backward from 1 or 2 foot takeoff (tuck/pike/stretched)",
       "skill_group": "11",
       "value": "S"
     },
@@ -1779,7 +1779,7 @@
       "event": "bb",
       "skill_code": "11.207",
       "img_file": "bb_11.207.jpg",
-      "description": "11.207\nGainer salto backward to side of beam\n(tuck/pike/stretched)\n\n",
+      "description": "Gainer salto backward to side of beam (tuck/pike/stretched)",
       "skill_group": "11",
       "value": "S"
     },
@@ -1787,7 +1787,7 @@
       "event": "bb",
       "skill_code": "11.301",
       "img_file": "bb_11.301.jpg",
-      "description": "11.301\nCartwheel with 1 3/4 twist at end of beam\n\n",
+      "description": "Cartwheel with 1 3/4 twist at end of beam",
       "skill_group": "11",
       "value": "HS"
     },
@@ -1795,7 +1795,7 @@
       "event": "bb",
       "skill_code": "11.302",
       "img_file": "bb_11.302.jpg",
-      "description": "11.302\nHandspring forward with 1 1/2 twist (540\u00b0)\n\n",
+      "description": "Handspring forward with 1 1/2 twist (540) after hand support",
       "skill_group": "11",
       "value": "HS"
     },
@@ -1803,7 +1803,7 @@
       "event": "bb",
       "skill_code": "11.303",
       "img_file": "bb_11.303.jpg",
-      "description": "11.303\na. Free (aerial) walkover forward with 1/1\ntwist (360\u00b0) at side or end\n\nf\n\n(Ee\n\nb. Free (aerial) round-off with 1/2 twist (180\u00b0)\n",
+      "description": "a. Free (aerial) walkover forward with 1/1 twist (360) at side or end nb. Free (aerial) round-off with 1/2 twist (180)",
       "skill_group": "11",
       "value": "HS"
     },
@@ -1811,7 +1811,7 @@
       "event": "bb",
       "skill_code": "11.304",
       "img_file": "bb_11.304.jpg",
-      "description": "11.304\nSaito forward (stretched), also with 1/2\ntwist (180\u00b0)\n\n",
+      "description": "Salto forward (stretched), also with 1/2 twist (180)",
       "skill_group": "11",
       "value": "HS"
     },
@@ -1819,7 +1819,7 @@
       "event": "bb",
       "skill_code": "11.305",
       "img_file": "bb_11.305.jpg",
-      "description": "11.305\nArabian salto (tuck/pike) - jump backward,\n1/2 twist (180\u00b0), salto forward\n\n",
+      "description": "Arabian salto (tuck/pike) - jump backward, 1/2 twist (180), salto forward",
       "skill_group": "11",
       "value": "HS"
     },
@@ -1827,7 +1827,7 @@
       "event": "bb",
       "skill_code": "11.306",
       "img_file": "bb_11.306.jpg",
-      "description": "11.306\nSalto backward with 1/2 twist (180\u00b0) from 1\nor 2 foot takeoff (tuck/pike/stretched)\n\n4 2 of\n\n",
+      "description": "Salto backward with 1/2 twist (180) from 1 or 2 foot takeoff (tuck/pike/stretched)",
       "skill_group": "11",
       "value": "HS"
     },
@@ -1835,7 +1835,7 @@
       "event": "bb",
       "skill_code": "11.307",
       "img_file": "bb_11.307.jpg",
-      "description": "11.307\nGainer salto backward to side of beam with\n4/2 twist (180\u00b0) (tuck/pike/stretched)\n\n",
+      "description": "Gainer salto backward to side of beam with 1/2 twist (180) (tuck/pike/stretched)",
       "skill_group": "11",
       "value": "HS"
     },
@@ -1843,7 +1843,7 @@
       "event": "bb",
       "skill_code": "11.308",
       "img_file": "bb_11.308.jpg",
-      "description": "11.308\nGainer salto backward (tuck), at end of\nbeam\n\n",
+      "description": "Gainer salto backward (tuck), at end of beam",
       "skill_group": "11",
       "value": "HS"
     },
@@ -1851,7 +1851,7 @@
       "event": "bb",
       "skill_code": "11.402",
       "img_file": "bb_11.402.jpg",
-      "description": "11.402\n\nCartwheel with 1/4 turn on the hands and\nrepulsion to salto backward tucked (Lawson)\nor piked (Keck) at the end of the beam\n(Tsukahara tucked /piked)\n\nJf\n\nvA)\nVv\n",
+      "description": "Cartwheel with 1/4 turn on the hands and repulsion to salto backward tucked (Lawson) or piked (Keck) at the end of the beam (Tsukahara tucked/piked)",
       "skill_group": "11",
       "value": "AHS"
     },
@@ -1859,7 +1859,7 @@
       "event": "bb",
       "skill_code": "11.403",
       "img_file": "bb_11.403.jpg",
-      "description": "11.403\na. Free (aerial) walkover forward with 1 1/2\ntwist (540\u00b0) ormore at side or end\n\nb, Free (aerial) round-off with 4/4 twist\n(540\u00b0) or more:\n",
+      "description": "a. Free (aerial) walkover forward with 1 1/2 twist (540) or more at side or end b. Free (aerial) round-off with 1/1 twist (540) or more",
       "skill_group": "11",
       "value": "AHS"
     },
@@ -1867,7 +1867,7 @@
       "event": "bb",
       "skill_code": "11.404",
       "img_file": "bb_11.404.jpg",
-      "description": "11.404\nSalto forward (tuck/pike/stretched) with 1/1\ntwist (360\u00b0) or more\n\n",
+      "description": "Salto forward (tuck/pike/stretched) with 1/1 twist (360) or more",
       "skill_group": "11",
       "value": "AHS"
     },
@@ -1875,7 +1875,7 @@
       "event": "bb",
       "skill_code": "11.405",
       "img_file": "bb_11.405.jpg",
-      "description": "11.405\nDouble salto forward or Arabian double\nsalto forwar\n",
+      "description": "Double salto forward or Arabian double salto forward",
       "skill_group": "11",
       "value": "AHS"
     },
@@ -1883,7 +1883,7 @@
       "event": "bb",
       "skill_code": "11.406",
       "img_file": "bb_11.406.jpg",
-      "description": "11.406\nSalto backward with 1/1 twist (360\u00b0) or more\nfrom 1 oF 2 foot takeoff (tuck/pike/stretched)\n\n",
+      "description": "Salto backward with 1/1 twist (360) or more from 1 or 2 foot takeoff (tuck/pike/stretched)",
       "skill_group": "11",
       "value": "AHS"
     },
@@ -1891,7 +1891,7 @@
       "event": "bb",
       "skill_code": "11.407",
       "img_file": "bb_11.407.jpg",
-      "description": "salto backward with 1/1 twist (360\u00b0)\n(tuck/pike/stretched) at side or end\n\ngir\n\n",
+      "description": "Gainer salto backward with 1/1 twist (360) (tuck/pike/stretched) at side or end",
       "skill_group": "11",
       "value": "AHS"
     },
@@ -1899,7 +1899,7 @@
       "event": "bb",
       "skill_code": "11.408",
       "img_file": "bb_11.408.jpg",
-      "description": "11.408\nGainer salto backward (pike/stretched) at end\nof beam\n\n",
+      "description": "Gainer salto backward (pike/stretched) at end of beam",
       "skill_group": "11",
       "value": "AHS"
     },
@@ -1907,7 +1907,7 @@
       "event": "bb",
       "skill_code": "11.409",
       "img_file": "bb_11.409.jpg",
-      "description": "11.409\nDouble salto backward\n\n",
+      "description": "Double salto backward",
       "skill_group": "11",
       "value": "AHS"
     },
