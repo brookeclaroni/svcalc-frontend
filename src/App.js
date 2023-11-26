@@ -11,6 +11,7 @@ import CardMedia from '@mui/material/CardMedia';
 import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
 import MenuItem from '@mui/material/MenuItem';
+import Button from '@mui/material/Button';
 
 // Mapping function for event codes to formal text
 const mapEventCodeToText = {
@@ -20,15 +21,16 @@ const mapEventCodeToText = {
 };
 
 function App() {
-  const [textList, setTextList] = useState([]);
+  const [skillList, setSkillList] = useState([]);
   const [selectedSkillImage, setSelectedSkillImage] = useState(null);
   const [skillImages, setSkillImages] = useState([]);
   const [selectedEvent, setSelectedEvent] = useState('');
+  const [startValue, setStartValue] = useState(null);
 
   const eventOptions = ['ub', 'bb', 'fx'];
 
-  function addText(skill, image) {
-    setTextList([...textList, { skill, image, connection: 'disconnected' }]);
+  function addSkillToSkillList(code, description, image) {
+    setSkillList([...skillList, { code, description, image, connection: 'disconnected' }]);
     setSkillImages([...skillImages, image]);
   }
 
@@ -36,15 +38,37 @@ function App() {
     setSelectedEvent(event.target.value);
 
     // Reset the skill list when the event changes
-    setTextList([]);
+    setSkillList([]);
     setSkillImages([]);
     setSelectedSkillImage(null);
+    setStartValue(null);
   };
 
   const handleConnectionChange = (index, connection) => {
-    const updatedTextList = [...textList];
-    updatedTextList[index].connection = connection;
-    setTextList(updatedTextList);
+    const updatedskillList = [...skillList];
+    updatedskillList[index].connection = connection;
+    setSkillList(updatedskillList);
+  };
+
+  const calculateStartValue = () => {
+    console.table(skillList);
+
+    const routine = skillList
+    .filter((item) => item.code) // Exclude skills with empty or undefined skill code
+    .map((item, index, array) => {
+      if (index === array.length - 1) {
+        return item.code;
+      }
+      else if (item.connection === 'connected') {
+        return item.code + '+';
+      } else {
+        return item.code + '/';
+      }
+    })
+    .join('');
+
+    setStartValue({ event: selectedEvent, routine });
+    console.log({ event: selectedEvent, routine });
   };
 
   return (
@@ -70,7 +94,7 @@ function App() {
             </Typography>
 
             <SkillInput
-              addSkill={(skill, image) => addText(skill, image)}
+              addSkill={(code, description, image) => addSkillToSkillList(code, description, image)}
               setSelectedSkillImage={setSelectedSkillImage}
               skillImages={skillImages}
               setSkillImages={setSkillImages}
@@ -80,10 +104,10 @@ function App() {
         )}
 
         <List>
-          {textList.map((item, index) => (
+          {skillList.map((item, index) => (
             <React.Fragment key={index}>
               <ListItem>
-                <ListItemText primary={item.skill} />
+                <ListItemText primary={item.description} />
                 {item.image && (
                   <Card style={{ width: '150px', marginLeft: '10px' }}>
                     <CardMedia
@@ -96,7 +120,7 @@ function App() {
                   </Card>
                 )}
               </ListItem>
-              {index < textList.length - 1 && ( // Only show connection dropdown between skills
+              {index < skillList.length - 1 && ( // Only show connection dropdown between skills
                 <ListItem key={`connection-${index}`}>
                   <FormControl style={{ marginLeft: '10px' }}>
                     <Select
@@ -112,6 +136,16 @@ function App() {
             </React.Fragment>
           ))}
         </List>
+
+        <Button variant="contained" color="primary" onClick={calculateStartValue}>
+          Calculate Start Value
+        </Button>
+
+        {startValue && (
+          <Typography variant="body1" style={{ marginTop: 10 }}>
+            {`{"event": "${startValue.event}", "routine": "${startValue.routine}"}`}
+          </Typography>
+        )}
       </Paper>
     </Container>
   );

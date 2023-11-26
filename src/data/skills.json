@@ -763,7 +763,7 @@
       "event": "bb",
       "skill_code": "1.101",
       "img_file": "bb_1.101.jpg",
-      "description": "1.101\nJump with hand support to tuck stand, side\nstraddle stand, wolf position or split sit\n\n",
+      "description": "Jump with hand support to tuck stand, side straddle stand, wolf position or split sit",
       "skill_group": "1",
       "value": "M"
     },
@@ -771,7 +771,7 @@
       "event": "bb",
       "skill_code": "1.102",
       "img_file": "bb_1.102.jpg",
-      "description": "1.102\nFree step up mount to a stand\n\n",
+      "description": "Free step up mount to a stand",
       "skill_group": "1",
       "value": "M"
     },
@@ -779,7 +779,7 @@
       "event": "bb",
       "skill_code": "1.103",
       "img_file": "bb_1.103.jpg",
-      "description": "1.103\nFlank over or straddle cut forward to rear\n\u2018support\n\n",
+      "description": "Flank over or straddle cut forward to rear support",
       "skill_group": "1",
       "value": "M"
     },
@@ -787,7 +787,7 @@
       "event": "bb",
       "skill_code": "1.104",
       "img_file": "bb_1.104.jpg",
-      "description": "1.104\nScissors leap to cross sit on L or R thigh,\ndiagonal approach to beam\n\n",
+      "description": "Scissors leap to cross sit on L or R thigh, diagonal approach to beam",
       "skill_group": "1",
       "value": "M"
     },
@@ -795,7 +795,7 @@
       "event": "bb",
       "skill_code": "1.105",
       "img_file": "bb_1.105.jpg",
-      "description": "Scissors leg swing with 1/2 (180\u00b0) turn to\ncross straddle sit\n\n",
+      "description": "Scissors leg swing with 1/2 (180) turn to cross straddle sit",
       "skill_group": "1",
       "value": "M"
     },
@@ -803,7 +803,7 @@
       "event": "bb",
       "skill_code": "1.106",
       "img_file": "bb_1.106.jpg",
-      "description": "1.106\n\nFrom side stand front-ways with take-off\nfrom one or two feet - back hip pullover to\nfront support\n\n",
+      "description": "From side stand front-ways with take-off from one or two feet - back hip pullover to front support",
       "skill_group": "1",
       "value": "M"
     },
@@ -819,7 +819,7 @@
       "event": "bb",
       "skill_code": "1.108",
       "img_file": "bb_1.108.jpg",
-      "description": "1.108\nJump to roll forward at end or middle of\n\n",
+      "description": "Jump to roll forward at end or middle of",
       "skill_group": "1",
       "value": "M"
     },
@@ -827,7 +827,7 @@
       "event": "bb",
       "skill_code": "1.109",
       "img_file": "bb_1.109.jpg",
-      "description": "1.109\nJump to chest or headstand\n\nay\n\nPo\n\n",
+      "description": "Jump to chest or headstand",
       "skill_group": "1",
       "value": "M"
     },
@@ -835,7 +835,7 @@
       "event": "bb",
       "skill_code": "1.110",
       "img_file": "bb_1.110.jpg",
-      "description": "1.110\n\nOne foot take-off, leg swing w/4-% turn\n(total 180\u00b0) to front support \u2014 90\u00b0 approach\nto beam\n\n",
+      "description": "One foot take-off, leg swing w/ 1/2 turn (total 180) to front support",
       "skill_group": "1",
       "value": "M"
     },

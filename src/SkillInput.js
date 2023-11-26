@@ -22,7 +22,7 @@ function SkillInput({ addSkill, setSelectedSkillImage, skillImages, setSkillImag
   function handleSkillSelect(value) {
     const selectedSkillData = filteredSkills.find((skill) => skill.description === value);
     if (selectedSkillData) {
-      addSkill(selectedSkillData.description, "images/"+selectedSkillData.img_file);
+      addSkill(selectedSkillData.skill_code, selectedSkillData.description, "images/"+selectedSkillData.img_file);
       setSelectedSkill(selectedSkillData);
       setInputValue('');
       setSelectedSkillImage(selectedSkillData.img_file);
